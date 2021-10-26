@@ -1,4 +1,4 @@
-import math
+import math 
 
 class EmailAlert():
   def __init__(self):
